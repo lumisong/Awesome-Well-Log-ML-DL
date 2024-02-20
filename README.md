@@ -24,7 +24,12 @@ Related to：
   - [Contents](#contents)
   - [Open-Source Repositories](#open-source-repositories)
   - [Commercial Software](#commercial-software)
-  - [Academic Papers](#academic-papers)
+  - [Papers](#papers)
+    - [Year 2022](#year-2022)
+    - [Year 2021](#year-2021)
+    - [Year 2020](#year-2020)
+    - [Year 2019](#year-2019)
+    - [Year 2018](#year-2018)
   - [Code Snippets and Libraries](#code-snippets-and-libraries)
   - [Visualization](#visualization)
   - [Technical Blogs and Articles](#technical-blogs-and-articles)
@@ -40,9 +45,27 @@ A collection of GitHub repositories and other open-source platforms providing to
 
 An overview of commercial software offerings that provide advanced capabilities for well-log data processing and visualization.
 
-## Academic Papers
+## Papers
 
-Curated links to academic research papers that explore the application of ML and DL in well-log analysis.
+### Year 2022
+
+[Applied Computing and Geosciences] Multivariate imputation via chained equations for elastic well log imputation and prediction. [[paper](https://www.sciencedirect.com/science/article/pii/S2590197422000052)][[official code](https://github.com/trhallam/mice_well_log_imputation)] keys: **MICE LGBM**
+
+### Year 2021
+
+### Year 2020
+
+[IEEE Transactions on Geoscience and Remote Sensing] Physics-Constrained Deep Learning of Geomechanical Logs [[paper](https://ieeexplore.ieee.org/abstract/document/9007020)] [[official code](https://github.com/YuntianChen/EnLSTM?tab=readme-ov-file)] keys: **LSTM** Author: Yuntian Chen
+
+[Geophysical Research Letters] Well Log Generation via Ensemble Long Short-Term Memory (EnLSTM) Network [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL087685)] [[official code](https://github.com/YuntianChen/EnLSTM?tab=readme-ov-file)] keys: **LSTM** Author: Yuntian Chen
+
+### Year 2019
+
+[Neural Networks] Ensemble Neural Networks (ENN): A gradient-free stochastic method  [[paper](https://www.sciencedirect.com/science/article/pii/S0893608018303319)] [[official code](https://github.com/YuntianChen/ENN)] keys: **enn** Author: Yuntian Chen
+
+### Year 2018
+
+[Petroleum Exploration and Development] Synthetic well logs generation via Recurrent Neural Networks [[paper](https://www.sciencedirect.com/science/article/pii/S1876380418300685)] [[official code](https://github.com/YuntianChen/cascaded_EnLSTM)] keys: **LSTM** Author: Yuntian Chen
 
 ## Code Snippets and Libraries
 
