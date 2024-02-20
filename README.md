@@ -23,6 +23,7 @@ Related to：
 - [Awesome-Well-Log-ML-DL](#awesome-well-log-ml-dl)
   - [Contents](#contents)
   - [Open-Source Repositories](#open-source-repositories)
+  - [Competition](#competition)
   - [Commercial Software](#commercial-software)
   - [Papers](#papers)
     - [Year 2022](#year-2022)
@@ -41,6 +42,16 @@ Related to：
 
 A collection of GitHub repositories and other open-source platforms providing tools, libraries, and applications for well-log analysis.
 
+Machine-Learning-Deep-Learning : Projects on Oil and Gas (and Non Oil & Gas) Machine Learning[[code](https://github.com/Divyanshu-ISM/Machine-Learning-Deep-Learning)]
+
+synthetic_well-log_polynomial_regression : Construct a missing well log from other available well logs, more specifically an NMR well log from the measured Gamma Ray (GR), Caliper, Resistivity logs and the interpreted porosity from a well. [[code](https://github.com/abhishekdbihani/synthetic_well-log_polynomial_regression)]
+
+matrixfactorization : Matrix factorization for well formation tops, A recommender system for automatic picking of subsurface formation tops [[code](https://github.com/jessepisel/matrixfactorization)]
+
+## Competition
+
+Force-2020-Machine-Learning-competition [[code](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition)] [[contest](https://terranubis.com/datainfo/FORCE-ML-Competition-2020)] [[FORCE](https://www.sodir.no/en/force/Previous-events/machine-learning-contest-with-wells-and-seismic/)] [[xeek](https://thinkonward.com/app/c/challenges/force-well-logs)] [[dGB](https://dgbes.com/blog/competition/the-force-machine-learning-competition-2020)]
+
 ## Commercial Software
 
 An overview of commercial software offerings that provide advanced capabilities for well-log data processing and visualization.
@@ -52,6 +63,8 @@ An overview of commercial software offerings that provide advanced capabilities 
 [Applied Computing and Geosciences] Multivariate imputation via chained equations for elastic well log imputation and prediction. [[paper](https://www.sciencedirect.com/science/article/pii/S2590197422000052)][[official code](https://github.com/trhallam/mice_well_log_imputation)] keys: **MICE LGBM**
 
 ### Year 2021
+
+[Journal of Petroleum Science and Engineering] Training-while-drilling approach to inclination prediction in directional drilling utilizing recurrent neural networks [[paper](https://www.sciencedirect.com/science/article/pii/S0920410520311827)] [[official code](https://github.com/AndrzejTunkiel/Training-while-drilling)] keys: **Continuous Prediction**
 
 ### Year 2020
 
@@ -75,6 +88,8 @@ A list of useful code snippets, libraries, and frameworks for implementing ML an
 
 Tools and software recommendations for effective visualization of well-log data and interpretation results.
 
+Petrophysics-Python-Series [[code](https://github.com/andymcdgeo/Petrophysics-Python-Series)] Author: Andy McDonald
+
 ## Technical Blogs and Articles
 
 Insightful blogs and articles discussing trends, techniques, and case studies related to well-log analysis.
@@ -87,5 +102,9 @@ Guidelines on how to contribute to this repository. We welcome contributions tha
 
 Using GNU GPL, helps derivatives remain open source
 [Choose an appropriate license]
+
+Notes:
+
+1. shi yong cang ku huo nei rong qing zhu yi xiang ying de fa gui ,qing dao guan wang cha kan zhe zhong shu ju de shi yong shuo ming yi ji xiang guan nei rong.
 
 ## Contact
