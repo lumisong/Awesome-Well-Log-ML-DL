@@ -105,6 +105,6 @@ Using GNU GPL, helps derivatives remain open source
 
 Notes:
 
-1. shi yong cang ku huo nei rong qing zhu yi xiang ying de fa gui ,qing dao guan wang cha kan zhe zhong shu ju de shi yong shuo ming yi ji xiang guan nei rong.
+1. When using the warehouse or content, please pay attention to the corresponding regulations. Please visit the official website to check the instructions for using this data and related content.
 
 ## Contact
