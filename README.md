@@ -42,15 +42,17 @@ Related to：
 
 A collection of GitHub repositories and other open-source platforms providing tools, libraries, and applications for well-log analysis.
 
-Machine-Learning-Deep-Learning : Projects on Oil and Gas (and Non Oil & Gas) Machine Learning[[code](https://github.com/Divyanshu-ISM/Machine-Learning-Deep-Learning)]
+Machine-Learning-Deep-Learning : Projects on Oil and Gas (and Non Oil & Gas) Machine Learning[[code](https://github.com/Divyanshu-ISM/Machine-Learning-Deep-Learning)] flag:TODO
 
-synthetic_well-log_polynomial_regression : Construct a missing well log from other available well logs, more specifically an NMR well log from the measured Gamma Ray (GR), Caliper, Resistivity logs and the interpreted porosity from a well. [[code](https://github.com/abhishekdbihani/synthetic_well-log_polynomial_regression)]
+synthetic_well-log_polynomial_regression : Construct a missing well log from other available well logs, more specifically an NMR well log from the measured Gamma Ray (GR), Caliper, Resistivity logs and the interpreted porosity from a well. [[code](https://github.com/abhishekdbihani/synthetic_well-log_polynomial_regression)] flag:TODO
 
-matrixfactorization : Matrix factorization for well formation tops, A recommender system for automatic picking of subsurface formation tops [[code](https://github.com/jessepisel/matrixfactorization)]
+matrixfactorization : Matrix factorization for well formation tops, A recommender system for automatic picking of subsurface formation tops [[code](https://github.com/jessepisel/matrixfactorization)] flag：TODO
+
+Well_log_Prediction : Prediction of Equinor Volve well logs Data [[code](https://github.com/dapson2real/Well_log_Prediction)] flag:rearching [[change res](https://github.com/lumisong/Well_log_Prediction)]
 
 ## Competition
 
-Force-2020-Machine-Learning-competition [[code](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition)] [[contest](https://terranubis.com/datainfo/FORCE-ML-Competition-2020)] [[FORCE](https://www.sodir.no/en/force/Previous-events/machine-learning-contest-with-wells-and-seismic/)] [[xeek](https://thinkonward.com/app/c/challenges/force-well-logs)] [[dGB](https://dgbes.com/blog/competition/the-force-machine-learning-competition-2020)]
+Force-2020-Machine-Learning-competition [[code](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition)] [[contest](https://terranubis.com/datainfo/FORCE-ML-Competition-2020)] [[FORCE](https://www.sodir.no/en/force/Previous-events/machine-learning-contest-with-wells-and-seismic/)] [[xeek](https://thinkonward.com/app/c/challenges/force-well-logs)] [[dGB](https://dgbes.com/blog/competition/the-force-machine-learning-competition-2020)] flag:Rearching [[change res](https://github.com/lumisong/Force-2020-Machine-Learning-competition)]
 
 ## Commercial Software
 
