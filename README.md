@@ -26,6 +26,7 @@ Related to：
   - [Competition](#competition)
   - [Commercial Software](#commercial-software)
   - [Papers](#papers)
+    - [Year 2025](#year-2025)
     - [Year 2022](#year-2022)
     - [Year 2021](#year-2021)
     - [Year 2020](#year-2020)
@@ -41,6 +42,8 @@ Related to：
 ## Open-Source Repositories
 
 A collection of GitHub repositories and other open-source platforms providing tools, libraries, and applications for well-log analysis.
+
+well-log-imputation : A comprehensive benchmark for machine learning methods in well log data imputation, including multiple ML algorithms and standardized evaluation protocols [[code](https://github.com/uai-ufmg/well-log-imputation)] [[dataset](https://zenodo.org/records/10987946)] flag: Benchmark
 
 Machine-Learning-Deep-Learning : Projects on Oil and Gas (and Non Oil & Gas) Machine Learning[[code](https://github.com/Divyanshu-ISM/Machine-Learning-Deep-Learning)] flag:TODO
 
@@ -59,6 +62,10 @@ Force-2020-Machine-Learning-competition [[code](https://github.com/bolgebrygg/Fo
 An overview of commercial software offerings that provide advanced capabilities for well-log data processing and visualization.
 
 ## Papers
+
+### Year 2025
+
+[Computers and Geosciences] Imputation in well log data: A benchmark for machine learning methods [[paper](https://doi.org/10.1016/j.cageo.2024.105789)] [[official code](https://github.com/uai-ufmg/well-log-imputation)] [[dataset](https://zenodo.org/records/10987946)] keys: **Imputation Benchmark ML**
 
 ### Year 2022
 
